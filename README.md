@@ -48,12 +48,12 @@ ________________
 
 {
 	"name": "Sundar",
-    "address": "Sundar,  #57, Vee Vee Residency, Devarachikkanahalli",
-    "bank_account": {
-        "account_id": "1000065218216572",
-        "name": "HDFC BANK",
-        "address": "HDFC BANK, Kormangala, 560076"
-    }
+	"address": "Sundar,  #189, XYZ Royal Meridien, Honkong.",
+	"bank_account": {
+		"account_id": "1000022100002",
+		"name": "EMIRATE NBD BANK",
+		"address": "EMIRATE NBD BANK, Honkong, 24970"
+    	}
 }
 _______________________________________________________________________________
 
